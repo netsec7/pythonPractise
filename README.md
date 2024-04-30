@@ -1,2 +1,1 @@
-#Python Practise -> list comprehensions
-#https://bbookman.github.io/Python-list-comprehension1/
+#Python Practise -> list comprehensions -> https://bbookman.github.io/Python-list-comprehension1/
